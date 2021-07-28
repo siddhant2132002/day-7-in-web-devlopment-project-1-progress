@@ -1,0 +1,97 @@
+body
+{
+  margin: 0;
+  font-family:cursive;
+
+}
+.mount
+{
+  width: auto;
+  margin-top: 194px;
+margin-left: 450px;
+}
+.name{
+  margin-top: 10px;
+  margin: 0;
+  text-align: center;
+  font-size: 50px;
+}
+.gm{
+  margin: 0;
+  font-weight: bold;
+  text-align: center;
+  font-size: 30px;
+}
+.top-container
+{
+  height: 700px;
+  width: 100%;
+  background-color:#94EBCD;
+margin: 0;
+}
+
+.profile
+{
+    margin: 50px 0 50px 0;
+  text-align: center;
+}
+
+hr{
+border-color:grey;
+border-style:none;
+border-top-style:dotted;
+border-width:5px;
+width:5%;
+}
+
+
+.robot-gif
+{
+float: left;
+  width: 25%;
+}
+.languages{
+  margin: 100px 0 0 0;
+  width: 50%;
+  margin-left: 400px;
+}
+.project{
+  margin-top: 100px;
+  width: 50%;
+  height: auto;
+margin-left: 400px;
+}
+.project-gif
+{
+  margin-top: 40px;
+  float: right;
+  width: 20%;
+}
+.bottom-container
+{
+    text-align: center;
+}
+.contact-me
+{
+  margin-top:300px;
+  text-align: center;
+}
+.pro{
+  text-align: center;
+}
+.rob{
+text-align: center;
+}
+.bottom-container
+{
+margin-left: 350px;
+  width: 50%;
+}
+.contact-me
+{
+  margin-left: 350px;
+  width: 50%;
+}
+.copyright:hover {
+  background-color:#055052;
+}
